@@ -54,7 +54,7 @@ This tool only supports video downloads from YouTube.
 Make sure you have a stable internet connection.
 
 ## 📄 License
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 🙌 Credits
 Thanks to yt-dlp for making downloading videos so easy!
